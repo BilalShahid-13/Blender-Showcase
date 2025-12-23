@@ -1,0 +1,5 @@
+root
+su
+copy from one to another
+cp -r /media/bilal/New\ Volume/wallpapers/ .
+cp "/media/bilal/New Volume/wallpapers/1312611.jpeg" .
